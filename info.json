@@ -1,0 +1,20 @@
+{
+  "userInfos": {
+    "userName": "",
+    "pwd": "",
+    "sb": "sb"
+  },
+  "urls": {
+    "initUrl": "http://sep.ucas.edu.cn/",
+    "loginUrl": "http://sep.ucas.edu.cn/slogin",
+    "sepToJwxt": "http://sep.ucas.edu.cn/portal/site/226/821",
+    "siteMain": "http://jwxk.ucas.ac.cn/main",
+    "lesson": "http://jwxk.ucas.ac.cn/courseManage/main",
+    "jwxtRoot": "http://jwxk.ucas.ac.cn"
+  },
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2"
+  }
+}
